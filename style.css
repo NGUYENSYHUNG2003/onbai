@@ -1,0 +1,21 @@
+th,
+td {
+  border: solid black 1px;
+  padding: 8px;
+  text-align: center;
+}
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+th {
+  background-color: aquamarine;
+  text-align: center;
+}
+h1 {
+  text-align: center;
+}
+
+.icon {
+  background-color: beige;
+}
